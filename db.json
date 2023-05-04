@@ -1,0 +1,34 @@
+{
+    "nfts": [
+        {
+            "id": 1,
+            "name": "Aaric VonLuminat",
+            "description": "A blue circle NFT from the Shapes Collection",
+            "image": "https://ipfs.thirdwebcdn.com/ipfs/QmVNgFatBZgu1Zab5WFciUC5gcsgerqmDGMmCyuCfMWv8r/1.jpg"
+        },
+        {
+            "id": 2,
+            "name": "Adnum VonLuminat",
+            "description": "A green circle NFT from the Shapes Collection",
+            "image": "https://ipfs.thirdwebcdn.com/ipfs/QmVNgFatBZgu1Zab5WFciUC5gcsgerqmDGMmCyuCfMWv8r/2.jpg"
+        },
+        {
+            "id": 3,
+            "name": "Alevi VonLuminat",
+            "description": "A green circle NFT from the Shapes Collection",
+            "image": "https://ipfs.thirdwebcdn.com/ipfs/QmVNgFatBZgu1Zab5WFciUC5gcsgerqmDGMmCyuCfMWv8r/3.jpg"
+        },
+        {
+            "id": 4,
+            "name": "Adella VonTradian",
+            "description": "A green circle NFT from the Shapes Collection",
+            "image": "https://ipfs.thirdwebcdn.com/ipfs/QmVNgFatBZgu1Zab5WFciUC5gcsgerqmDGMmCyuCfMWv8r/4.jpg"
+        },
+        {
+            "id": 5,
+            "name": "Adrina VonTradian",
+            "description": "A green circle NFT from the Shapes Collection",
+            "image": "https://ipfs.thirdwebcdn.com/ipfs/QmVNgFatBZgu1Zab5WFciUC5gcsgerqmDGMmCyuCfMWv8r/5.jpg"
+        }
+    ]
+}
