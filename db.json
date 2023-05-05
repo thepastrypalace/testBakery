@@ -1,34 +1,284 @@
 {
     "nfts": [
         {
-            "id": 1,
+            "id": 0,
             "name": "Aaric VonLuminat",
             "description": "A blue circle NFT from the Shapes Collection",
-            "image": "https://ipfs.thirdwebcdn.com/ipfs/QmVNgFatBZgu1Zab5WFciUC5gcsgerqmDGMmCyuCfMWv8r/1.jpg"
+            "image": "https://ipfs.thirdwebcdn.com/ipfs/QmVNgFatBZgu1Zab5WFciUC5gcsgerqmDGMmCyuCfMWv8r/1.jpg",
+            "attributes": [
+                {
+                    "trait_type": "Background",
+                    "value": "Haze"
+                },
+                {
+                    "trait_type": "Gender",
+                    "value": "Male"
+                },
+                {
+                    "trait_type": "Skin",
+                    "value": "Aqua"
+                },
+                {
+                    "trait_type": "Eyes",
+                    "value": "Full Black"
+                },
+                {
+                    "trait_type": "Lips",
+                    "value": ""
+                },
+                {
+                    "trait_type": "Clothes",
+                    "value": "Leisure Kimono"
+                },
+                {
+                    "trait_type": "Type",
+                    "value": "Kimono"
+                },
+                {
+                    "trait_type": "Color",
+                    "value": "Spring"
+                },
+                {
+                    "trait_type": "Accessories 1",
+                    "value": "Gold Crown Red Jewels"
+                },
+                {
+                    "trait_type": "Accessories 2",
+                    "value": "Branch"
+                },
+                {
+                    "trait_type": "Accessories 3",
+                    "value": "KS ear tag silver"
+                },
+                {
+                    "trait_type": "Accessories 4",
+                    "value": "Surprised"
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "name": "Adnum VonLuminat",
+            "description": "A green circle NFT from the Shapes Collection",
+            "image": "https://ipfs.thirdwebcdn.com/ipfs/QmVNgFatBZgu1Zab5WFciUC5gcsgerqmDGMmCyuCfMWv8r/2.jpg",
+            "attributes": [
+                {
+                    "trait_type": "Background",
+                    "value": "Leaf"
+                },
+                {
+                    "trait_type": "Gender",
+                    "value": "Male"
+                },
+                {
+                    "trait_type": "Skin",
+                    "value": "Green Fin"
+                },
+                {
+                    "trait_type": "Eyes",
+                    "value": "Animal"
+                },
+                {
+                    "trait_type": "Lips",
+                    "value": ""
+                },
+                {
+                    "trait_type": "Clothes",
+                    "value": "Steampunk Ensemble"
+                },
+                {
+                    "trait_type": "Type",
+                    "value": "Jacket"
+                },
+                {
+                    "trait_type": "Color",
+                    "value": "Copper"
+                },
+                {
+                    "trait_type": "Accessories 1",
+                    "value": ""
+                },
+                {
+                    "trait_type": "Accessories 2",
+                    "value": ""
+                },
+                {
+                    "trait_type": "Accessories 3",
+                    "value": ""
+                },
+                {
+                    "trait_type": "Accessories 4",
+                    "value": ""
+                }
+            ]
         },
         {
             "id": 2,
-            "name": "Adnum VonLuminat",
+            "name": "Alevi VonLuminat",
             "description": "A green circle NFT from the Shapes Collection",
-            "image": "https://ipfs.thirdwebcdn.com/ipfs/QmVNgFatBZgu1Zab5WFciUC5gcsgerqmDGMmCyuCfMWv8r/2.jpg"
+            "image": "https://ipfs.thirdwebcdn.com/ipfs/QmVNgFatBZgu1Zab5WFciUC5gcsgerqmDGMmCyuCfMWv8r/3.jpg",
+            "attributes": [
+                {
+                    "trait_type": "Background",
+                    "value": "KinStrata Twilight"
+                },
+                {
+                    "trait_type": "Gender",
+                    "value": "Male"
+                },
+                {
+                    "trait_type": "Skin",
+                    "value": "Aqua"
+                },
+                {
+                    "trait_type": "Eyes",
+                    "value": "Full Black"
+                },
+                {
+                    "trait_type": "Lips",
+                    "value": ""
+                },
+                {
+                    "trait_type": "Clothes",
+                    "value": "Leisure Kimono"
+                },
+                {
+                    "trait_type": "Type",
+                    "value": "Kimono"
+                },
+                {
+                    "trait_type": "Color",
+                    "value": "Winter"
+                },
+                {
+                    "trait_type": "Accessories 1",
+                    "value": "Silver Leaf Octupus"
+                },
+                {
+                    "trait_type": "Accessories 2",
+                    "value": ""
+                },
+                {
+                    "trait_type": "Accessories 3",
+                    "value": ""
+                },
+                {
+                    "trait_type": "Accessories 4",
+                    "value": ""
+                }
+            ]
         },
         {
             "id": 3,
-            "name": "Alevi VonLuminat",
+            "name": "Adella VonTradian",
             "description": "A green circle NFT from the Shapes Collection",
-            "image": "https://ipfs.thirdwebcdn.com/ipfs/QmVNgFatBZgu1Zab5WFciUC5gcsgerqmDGMmCyuCfMWv8r/3.jpg"
+            "image": "https://ipfs.thirdwebcdn.com/ipfs/QmVNgFatBZgu1Zab5WFciUC5gcsgerqmDGMmCyuCfMWv8r/4.jpg",
+            "attributes": [
+                {
+                    "trait_type": "Background",
+                    "value": "Abyss"
+                },
+                {
+                    "trait_type": "Gender",
+                    "value": "Female"
+                },
+                {
+                    "trait_type": "Skin",
+                    "value": "Animal"
+                },
+                {
+                    "trait_type": "Eyes",
+                    "value": "Green"
+                },
+                {
+                    "trait_type": "Lips",
+                    "value": "Pink Gloss"
+                },
+                {
+                    "trait_type": "Clothes",
+                    "value": "Alien Warrior Ensemble"
+                },
+                {
+                    "trait_type": "Type",
+                    "value": "Overall"
+                },
+                {
+                    "trait_type": "Color",
+                    "value": "Purpinl"
+                },
+                {
+                    "trait_type": "Accessories 1",
+                    "value": "Purple Vapor"
+                },
+                {
+                    "trait_type": "Accessories 2",
+                    "value": "Gold Halo"
+                },
+                {
+                    "trait_type": "Accessories 3",
+                    "value": "Dragonfly"
+                },
+                {
+                    "trait_type": "Accessories 4",
+                    "value": "Hummingbird Blue"
+                }
+            ]
         },
         {
             "id": 4,
-            "name": "Adella VonTradian",
-            "description": "A green circle NFT from the Shapes Collection",
-            "image": "https://ipfs.thirdwebcdn.com/ipfs/QmVNgFatBZgu1Zab5WFciUC5gcsgerqmDGMmCyuCfMWv8r/4.jpg"
-        },
-        {
-            "id": 5,
             "name": "Adrina VonTradian",
             "description": "A green circle NFT from the Shapes Collection",
-            "image": "https://ipfs.thirdwebcdn.com/ipfs/QmVNgFatBZgu1Zab5WFciUC5gcsgerqmDGMmCyuCfMWv8r/5.jpg"
+            "image": "https://ipfs.thirdwebcdn.com/ipfs/QmVNgFatBZgu1Zab5WFciUC5gcsgerqmDGMmCyuCfMWv8r/5.jpg",
+            "attributes": [
+                {
+                    "trait_type": "Background",
+                    "value": "Dark Night"
+                },
+                {
+                    "trait_type": "Gender",
+                    "value": "Female"
+                },
+                {
+                    "trait_type": "Skin",
+                    "value": "Popsicle"
+                },
+                {
+                    "trait_type": "Eyes",
+                    "value": "Red"
+                },
+                {
+                    "trait_type": "Lips",
+                    "value": "Pink Gloss"
+                },
+                {
+                    "trait_type": "Clothes",
+                    "value": "Underworld"
+                },
+                {
+                    "trait_type": "Type",
+                    "value": "Armour"
+                },
+                {
+                    "trait_type": "Color",
+                    "value": "Animal"
+                },
+                {
+                    "trait_type": "Accessories 1",
+                    "value": "Dragonfly"
+                },
+                {
+                    "trait_type": "Accessories 2",
+                    "value": "Safety Pin Gold"
+                },
+                {
+                    "trait_type": "Accessories 3",
+                    "value": "Poison Orchid Green Jewel"
+                },
+                {
+                    "trait_type": "Accessories 4",
+                    "value": ""
+                }
+            ]
         }
     ]
 }
