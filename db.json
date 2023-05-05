@@ -61,14 +61,14 @@
                     "value": 2
                 },
                 {
-                    "display_type": "Power",
-                    "trait_type": "Telekinesis",
-                    "value": 40
-                },
-                {
                     "display_type": "date",
                     "trait_type": "birthday",
                     "value": 1683273056
+                },
+                {
+                    "display_type": "Power",
+                    "trait_type": "Telekinesis",
+                    "value": 40
                 }
             ]
         },
