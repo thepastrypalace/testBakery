@@ -233,7 +233,7 @@
             "name": "Adrina VonTradian",
             "description": "A green circle NFT from the Shapes Collection",
             "image": "https://ipfs.thirdwebcdn.com/ipfs/QmVNgFatBZgu1Zab5WFciUC5gcsgerqmDGMmCyuCfMWv8r/5.jpg",
-            "background_color": "ffffff",
+            "background_color": "0edaa1",
             "attributes": [
                 {
                     "trait_type": "Background",
