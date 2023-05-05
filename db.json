@@ -64,6 +64,11 @@
                     "display_type": "Power",
                     "trait_type": "Telekinesis",
                     "value": 40
+                },
+                {
+                    "display_type": "date",
+                    "trait_type": "birthday",
+                    "value": 1683273056
                 }
             ]
         },
@@ -121,6 +126,11 @@
                 {
                     "trait_type": "Accessories 4",
                     "value": ""
+                },
+                {
+                    "display_type": "date",
+                    "trait_type": "birthday",
+                    "value": 1683273056
                 }
             ]
         },
@@ -178,6 +188,11 @@
                 {
                     "trait_type": "Accessories 4",
                     "value": ""
+                },
+                {
+                    "display_type": "date",
+                    "trait_type": "birthday",
+                    "value": 1683273056
                 }
             ]
         },
@@ -235,6 +250,11 @@
                 {
                     "trait_type": "Accessories 4",
                     "value": "Hummingbird Blue"
+                },
+                {
+                    "display_type": "date",
+                    "trait_type": "birthday",
+                    "value": 1683273056
                 }
             ]
         },
@@ -292,6 +312,11 @@
                 {
                     "trait_type": "Accessories 4",
                     "value": ""
+                },
+                {
+                    "display_type": "date",
+                    "trait_type": "birthday",
+                    "value": 1683273056
                 }
             ]
         }
