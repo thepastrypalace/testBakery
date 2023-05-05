@@ -62,7 +62,7 @@
             "name": "Adnum VonLuminat",
             "description": "A green circle NFT from the Shapes Collection",
             "image": "https://ipfs.thirdwebcdn.com/ipfs/QmVNgFatBZgu1Zab5WFciUC5gcsgerqmDGMmCyuCfMWv8r/2.jpg",
-            "background_color": "7f3c03",
+            "background_color": "e4aa01",
             "attributes": [
                 {
                     "trait_type": "Background",
@@ -233,7 +233,7 @@
             "name": "Adrina VonTradian",
             "description": "A green circle NFT from the Shapes Collection",
             "image": "https://ipfs.thirdwebcdn.com/ipfs/QmVNgFatBZgu1Zab5WFciUC5gcsgerqmDGMmCyuCfMWv8r/5.jpg",
-            "background_color": "010f31",
+            "background_color": "e4aa01",
             "attributes": [
                 {
                     "trait_type": "Background",
