@@ -2,10 +2,10 @@
     "nfts": [
         {
             "id": 0,
-            "name": "Aaric VonLuminat",
+            "name": "Aaric von Luminat",
             "description": "A blue circle NFT from the Shapes Collection",
             "image": "https://ipfs.thirdwebcdn.com/ipfs/QmVNgFatBZgu1Zab5WFciUC5gcsgerqmDGMmCyuCfMWv8r/1.jpg",
-            "background_color": "490304",
+            "background_color": "000000",
             "attributes": [
                 {
                     "trait_type": "Background",
@@ -54,15 +54,25 @@
                 {
                     "trait_type": "Accessories 4",
                     "value": "Surprised"
+                },
+                {
+                    "display_type": "number",
+                    "trait_type": "Generation",
+                    "value": 2
+                },
+                {
+                    "display_type": "Power",
+                    "trait_type": "Telekinesis",
+                    "value": 40
                 }
             ]
         },
         {
             "id": 1,
-            "name": "Adnum VonLuminat",
+            "name": "Adnum von Luminat",
             "description": "A green circle NFT from the Shapes Collection",
             "image": "https://ipfs.thirdwebcdn.com/ipfs/QmVNgFatBZgu1Zab5WFciUC5gcsgerqmDGMmCyuCfMWv8r/2.jpg",
-            "background_color": "e4aa01",
+            "background_color": "000000",
             "attributes": [
                 {
                     "trait_type": "Background",
@@ -116,10 +126,10 @@
         },
         {
             "id": 2,
-            "name": "Alevi VonLuminat",
+            "name": "Alevi von Luminat",
             "description": "A green circle NFT from the Shapes Collection",
             "image": "https://ipfs.thirdwebcdn.com/ipfs/QmVNgFatBZgu1Zab5WFciUC5gcsgerqmDGMmCyuCfMWv8r/3.jpg",
-            "background_color": "0c0295",
+            "background_color": "000000",
             "attributes": [
                 {
                     "trait_type": "Background",
@@ -173,7 +183,7 @@
         },
         {
             "id": 3,
-            "name": "Adella VonTradian",
+            "name": "Adella von Tradian",
             "description": "A green circle NFT from the Shapes Collection",
             "image": "https://ipfs.thirdwebcdn.com/ipfs/QmVNgFatBZgu1Zab5WFciUC5gcsgerqmDGMmCyuCfMWv8r/4.jpg",
             "background_color": "000000",
@@ -230,10 +240,10 @@
         },
         {
             "id": 4,
-            "name": "Adrina VonTradian",
+            "name": "Adrina von Tradian",
             "description": "A green circle NFT from the Shapes Collection",
             "image": "https://ipfs.thirdwebcdn.com/ipfs/QmVNgFatBZgu1Zab5WFciUC5gcsgerqmDGMmCyuCfMWv8r/5.jpg",
-            "background_color": "e4aa01",
+            "background_color": "000000",
             "attributes": [
                 {
                     "trait_type": "Background",
@@ -281,7 +291,7 @@
                 },
                 {
                     "trait_type": "Accessories 4",
-                    "value": "White"
+                    "value": ""
                 }
             ]
         }
