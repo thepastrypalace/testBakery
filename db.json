@@ -3,7 +3,7 @@
         {
             "id": 0,
             "name": "Aaric von Luminat",
-            "description": "A blue circle NFT from the Shapes Collection",
+            "description": "Behold a pioneering project with a mysterious agenda, set to transform the NFT realm. Featuring 26 distinct shells and characters, each NFT is meticulously hand-painted and assembled. This collection boasts over 850 unique traits and a rich lore that serves as the cornerstone for a dynamic and impactful collection, poised for long-term evolution.",
             "image": "https://ipfs.thirdwebcdn.com/ipfs/QmVNgFatBZgu1Zab5WFciUC5gcsgerqmDGMmCyuCfMWv8r/1.jpg",
             "background_color": "000000",
             "attributes": [
@@ -61,21 +61,21 @@
                     "value": 2
                 },
                 {
-                    "display_type": "date",
-                    "trait_type": "birthday",
-                    "value": 1683273056
-                },
-                {
                     "display_type": "Power",
                     "trait_type": "Telekinesis",
                     "value": 40
+                },
+                {
+                    "display_type": "date",
+                    "trait_type": "birthday",
+                    "value": 1683273056
                 }
             ]
         },
         {
             "id": 1,
             "name": "Adnum von Luminat",
-            "description": "A green circle NFT from the Shapes Collection",
+            "description": "Behold a pioneering project with a mysterious agenda, set to transform the NFT realm. Featuring 26 distinct shells and characters, each NFT is meticulously hand-painted and assembled. This collection boasts over 850 unique traits and a rich lore that serves as the cornerstone for a dynamic and impactful collection, poised for long-term evolution.",
             "image": "https://ipfs.thirdwebcdn.com/ipfs/QmVNgFatBZgu1Zab5WFciUC5gcsgerqmDGMmCyuCfMWv8r/2.jpg",
             "background_color": "000000",
             "attributes": [
@@ -137,7 +137,7 @@
         {
             "id": 2,
             "name": "Alevi von Luminat",
-            "description": "A green circle NFT from the Shapes Collection",
+            "description": "Behold a pioneering project with a mysterious agenda, set to transform the NFT realm. Featuring 26 distinct shells and characters, each NFT is meticulously hand-painted and assembled. This collection boasts over 850 unique traits and a rich lore that serves as the cornerstone for a dynamic and impactful collection, poised for long-term evolution.",
             "image": "https://ipfs.thirdwebcdn.com/ipfs/QmVNgFatBZgu1Zab5WFciUC5gcsgerqmDGMmCyuCfMWv8r/3.jpg",
             "background_color": "000000",
             "attributes": [
@@ -199,7 +199,7 @@
         {
             "id": 3,
             "name": "Adella von Tradian",
-            "description": "A green circle NFT from the Shapes Collection",
+            "description": "Behold a pioneering project with a mysterious agenda, set to transform the NFT realm. Featuring 26 distinct shells and characters, each NFT is meticulously hand-painted and assembled. This collection boasts over 850 unique traits and a rich lore that serves as the cornerstone for a dynamic and impactful collection, poised for long-term evolution.",
             "image": "https://ipfs.thirdwebcdn.com/ipfs/QmVNgFatBZgu1Zab5WFciUC5gcsgerqmDGMmCyuCfMWv8r/4.jpg",
             "background_color": "000000",
             "attributes": [
@@ -261,7 +261,7 @@
         {
             "id": 4,
             "name": "Adrina von Tradian",
-            "description": "A green circle NFT from the Shapes Collection",
+            "description": "Behold a pioneering project with a mysterious agenda, set to transform the NFT realm. Featuring 26 distinct shells and characters, each NFT is meticulously hand-painted and assembled. This collection boasts over 850 unique traits and a rich lore that serves as the cornerstone for a dynamic and impactful collection, poised for long-term evolution.",
             "image": "https://ipfs.thirdwebcdn.com/ipfs/QmVNgFatBZgu1Zab5WFciUC5gcsgerqmDGMmCyuCfMWv8r/5.jpg",
             "background_color": "000000",
             "attributes": [
